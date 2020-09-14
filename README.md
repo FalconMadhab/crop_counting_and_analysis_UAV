@@ -861,8 +861,7 @@ plant_df.to_csv('output/plant_count.csv')
 
 
 You can view the plant counts: [plant_count.csv](output/plant_count.csv)
-### Thanks! Keep an eye out for future notebooks and algorithms! [DroneMapper.com](https://dronemapper.com)
-
+### Thanks! 
 
 ```python
 
